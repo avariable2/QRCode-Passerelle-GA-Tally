@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'passerelle-ga-tally';
+  title = 'screws-redirect';
+
+  ngOnInit() {
+    window.location.href = "https://screws-landing-page-avariable2.vercel.app/";
+  }
 }
