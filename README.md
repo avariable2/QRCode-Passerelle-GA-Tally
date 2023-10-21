@@ -1,7 +1,7 @@
 # Passerelle Ga -> Tally
 
 ## Introduction
-Ce site a été conçu pour rediriger les utilisateurs vers un formulaire après avoir scanné un QR code. Le processus de redirection est enrichi avec le suivi de Google Analytics pour analyser le trafic et les interactions des utilisateurs.
+Ce site a été conçu pour rediriger les utilisateurs vers un formulaire après avoir scanné un QR code. Le processus de redirection est enrichi avec le suivi de Google Analytics pour analyser le trafic et les interactions des utilisateurs. qr-code-passerelle-ga-tally.vercel.app
 
 ## Parcours Utilisateur
 1. **Scan du QR Code** : 
