@@ -9,6 +9,6 @@ export class AppComponent {
   title = 'screws-redirect';
 
   ngOnInit() {
-    window.location.href = "https://tally.so/r/nr51ep";
+    //window.location.href = "https://tally.so/r/nr51ep";
   }
 }
